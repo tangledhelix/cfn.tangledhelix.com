@@ -1,0 +1,27 @@
+<html lang="en">
+<head>
+	<title>{{ page.title }} | Photos | Cleveland Free-Net</title>
+	<link rel="stylesheet" href="/css/main.css" type="text/css" />
+</head>
+
+<body>
+
+<p>
+&lt;&lt;&lt; PHOTOS: {{ page.title | upcase }} &gt;&gt;&gt;
+</p>
+
+{% for item in page.images %}
+<p><img src="{{ item[0] }}" /></p>
+{% if item[1] %}
+<p>{{ item[1] }}</p>
+{% endif %}
+{% endfor %}
+
+<br />
+
+<p>
+=> <a href="/gallery">Return to Gallery Menu</a>
+</p>
+
+</body>
+</html>

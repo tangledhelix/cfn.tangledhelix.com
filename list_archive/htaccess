@@ -1,0 +1,9 @@
+---
+layout: none
+permalink: .htaccess
+---
+AuthType basic
+AuthUserFile /home/scsiboy/.htpasswd/cfn.tangledhelix.com-list_archive
+AuthGroupFile /dev/null
+AuthName "private"
+require valid-user

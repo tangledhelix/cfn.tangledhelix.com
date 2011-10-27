@@ -1,0 +1,29 @@
+<html lang="en">
+<head>
+	<title>{{ page.title }} | Stories | Cleveland Free-Net</title>
+	<link rel="stylesheet" href="/css/main.css" type="text/css" />
+</head>
+
+<body>
+
+<p>
+&lt;&lt;&lt; {{ page.title | upcase }} &gt;&gt;&gt;
+</p>
+
+<p>
+{% if page.subtitle %}
+{{ page.subtitle }}<br />
+{% endif %}
+by {{ page.author }}
+</p>
+
+{{ content }}
+
+<br />
+
+<p>
+=> <a href="/stories">Return to Stories Menu</a>
+</p>
+
+</body>
+</html>
