@@ -14,7 +14,7 @@ images:
 - ['dan_kris.jpg', 'Dan L. (Shadowfax), Kristen G. (Fantine)']
 - ['dan_matt.jpg', 'Dan L. (Shadowfax), Matt C. (Taishan)']
 - ['howl02.jpg', 'Nicole, Mikki, Julie H. (Ladyhawke)']
-- ['irc_picnic.jpg', 'Tessa, Nick (Peart), unknown, Samantha T. (saint), Brad L.']
+- ['irc_picnic.jpg', 'Tessa, Nick (Peart), unknown, Samantha T. (saint), Brad L. (Heretic)']
 - ['jacob_s.jpg', 'Jacob, son of Julie (Ladyhawke) and Matt (GroundOut) S.']
 - ['kris.jpg', 'Kristen G. (Fantine)']
 - ['pyro.jpg', 'Tom M. (pyro)']
