@@ -2,9 +2,18 @@
 <head>
 	<title>{{ page.title }} | Cleveland Free-Net</title>
 	<link rel="stylesheet" href="/css/main.css" type="text/css" />
+	<script src="/script/jquery.js"></script>
 </head>
 
 <body>
+
+<script>
+	$(document).keypress(function(event) {
+		if (event.which == 120) { // x
+			$(location).attr('href', '/main.html');
+		}
+	});
+</script>
 
 <p>
 &lt;&lt;&lt; {{ page.title | upcase }} &gt;&gt;&gt;
@@ -15,7 +24,7 @@
 <br />
 
 <p>
-=> <a href="/main.html">Return to Main Menu</a>
+=> x=<a href="/main.html">Return to Main Menu</a>
 </p>
 
 </body>

@@ -3,6 +3,14 @@ layout: default
 title: Welcome
 ---
 
+<script>
+	$(document).keypress(function(event) {
+		if (event.which == 49 || event.which == 50) { // 1 or 2
+			$(location).attr('href', '/main.html');
+		}
+	});
+</script>
+
 Trying 127.254.92.45...  
 Connected to freenet-in-b.cwru.edu.  
 Escape character is '^]'.

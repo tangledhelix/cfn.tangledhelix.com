@@ -2,9 +2,18 @@
 <head>
 	<title>{{ page.title }} | Stories | Cleveland Free-Net</title>
 	<link rel="stylesheet" href="/css/main.css" type="text/css" />
+	<script src="/script/jquery.js"></script>
 </head>
 
 <body>
+
+<script>
+	$(document).keypress(function(event) {
+		if (event.which == 120) { // x
+			$(location).attr('href', '/stories');
+		}
+	});
+</script>
 
 <p>
 &lt;&lt;&lt; {{ page.title | upcase }} &gt;&gt;&gt;
@@ -22,7 +31,7 @@ by {{ page.author }}
 <br />
 
 <p>
-=> <a href="/stories">Return to Stories Menu</a>
+=> x=<a href="/stories">Return to Stories Menu</a>
 </p>
 
 </body>
