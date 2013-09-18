@@ -10,7 +10,7 @@
 <script>
 	$(document).keypress(function(event) {
 		if (event.which == 120) { // x
-			$(location).attr('href', '/gallery');
+            $(location).attr('href', '{{ page.backlink }}');
 		}
 	});
 </script>
@@ -29,7 +29,7 @@
 <br />
 
 <p>
-=> x=<a href="/gallery">Return to Gallery Menu</a>
+=> x=<a href="{{ page.backlink }}">Return to Gallery Menu</a>
 </p>
 
 </body>

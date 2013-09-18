@@ -1,6 +1,7 @@
 ---
 layout: gallery
 title: April 1994
+backlink: /gallery/1994.html
 images:
 - ['01_G.jpg', 'Kevin H. (LiQUiD)']
 - ['02_G.jpg']

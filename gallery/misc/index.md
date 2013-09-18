@@ -1,6 +1,7 @@
 ---
 layout: gallery
 title: Miscellaneous
+backlink: /gallery
 images:
 - ['Admiral.jpg', 'Mike K. (Admiral)']
 - ['MVC_004F.jpg', 'Mike K. (Admiral) on Nerd Day']

@@ -1,6 +1,7 @@
 ---
 layout: gallery
 title: 1995
+backlink: /gallery
 images:
 - ['IMAGE20.JPG']
 - ['IMAGE21.JPG']

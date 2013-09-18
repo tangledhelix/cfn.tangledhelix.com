@@ -5,23 +5,22 @@ title: Main Menu
 
 <script>
 	$(document).keypress(function(event) {
-		if (event.which == 49) { // 1
-			$(location).attr('href', '/history.html');
-		} else if (event.which == 50) { // 2
-			$(location).attr('href', '/irc.html');
-		} else if (event.which == 51) { // 3
-			$(location).attr('href', '/gallery');
-		} else if (event.which == 52) { // 4
-			$(location).attr('href', '/list.html');
-		} else if (event.which == 53) { // 5
-			$(location).attr('href', 'https://www.facebook.com/home.php?sk=group_20175661233');
-		} else if (event.which == 54) { // 6
-			$(location).attr('href', '/stories');
-		} else if (event.which == 55) { // 7
-			$(location).attr('href', '/end_announce.html');
-		} else if (event.which == 120) { // x
-			$(location).attr('href', '/');
-		}
+        var loc;
+        switch (event.which) {
+            case 49: loc = '/history.html'; break;
+            case 50: loc = '/irc.html'; break;
+            case 51: loc = '/gallery'; break;
+            case 52: loc = '/list.html'; break;
+            case 53: loc = 'https://www.facebook.com/home.php?sk=group_20175661233'; break;
+            case 54: loc = '/stories'; break;
+            case 55: loc = '/end_announce.html'; break;
+            case 56: loc = '/grundner_obit.html'; break;
+            case 120: loc = '/'; break;
+            default: loc = null; break;
+        }
+        if (loc) {
+            $(location).attr('href', loc);
+        }
 	});
 </script>
 

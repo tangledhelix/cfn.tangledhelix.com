@@ -1,6 +1,7 @@
 ---
 layout: gallery
 title: October 1993
+backlink: /gallery/1993.html
 images:
 - ['01_G.jpg', 'Denise M. (pepper), unknown']
 - ['02_G.jpg']

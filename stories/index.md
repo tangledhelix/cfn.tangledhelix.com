@@ -5,27 +5,23 @@ title: IRC SIG Stories
 
 <script>
 	$(document).keypress(function(event) {
-		if (event.which == 49) { // 1
-			$(location).attr('href', 'b63062.html');
-		} else if (event.which == 50) { // 2
-			$(location).attr('href', 'jellybean.html');
-		} else if (event.which == 51) { // 3
-			$(location).attr('href', 'manoice.html');
-		} else if (event.which == 52) { // 4
-			$(location).attr('href', 'midgets.html');
-		} else if (event.which == 53) { // 5
-			$(location).attr('href', 'mountain.html');
-		} else if (event.which == 54) { // 6
-			$(location).attr('href', 'rbp.html');
-		} else if (event.which == 55) { // 7
-			$(location).attr('href', 'storygame.html');
-		} else if (event.which == 56) { // 8
-			$(location).attr('href', 'wibble.html');
-		} else if (event.which == 57) { // 9
-			$(location).attr('href', 'stefania.html');
-		} else if (event.which == 120) { // x
-			$(location).attr('href', '/main.html');
-		}
+        var loc;
+        switch (event.which) {
+            case 49: loc = 'b63062.html'; break;
+            case 50: loc = 'jellybean.html'; break;
+            case 51: loc = 'manoice.html'; break;
+            case 52: loc = 'midgets.html'; break;
+            case 53: loc = 'mountain.html'; break;
+            case 54: loc = 'rbp.html'; break;
+            case 55: loc = 'storygame.html'; break;
+            case 56: loc = 'wibble.html'; break;
+            case 57: loc = 'stefania.html'; break;
+            case 120: loc = '/main.html'; break;
+            default: loc = null; break;
+        }
+        if (loc) {
+            $(location).attr('href', loc);
+        }
 	});
 </script>
 

@@ -1,6 +1,7 @@
 ---
 layout: gallery
 title: December 1993
+backlink: /gallery/1993.html
 images:
 - ['01_G.jpg', 'Phantom, Wick, PinkFloyd, Rex']
 - ['02_G.jpg']

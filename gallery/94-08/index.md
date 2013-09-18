@@ -1,6 +1,7 @@
 ---
 layout: gallery
 title: August 1994
+backlink: /gallery/1994.html
 images:
 - ['01_G.jpg']
 - ['02_G.jpg', 'Stephanie (Cryptic)']

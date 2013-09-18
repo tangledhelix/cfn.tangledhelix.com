@@ -1,6 +1,7 @@
 ---
 layout: gallery
 title: May 1994
+backlink: /gallery/1994.html
 images:
 - ['01_G.jpg', 'Kristen G. (Fantine), Yan L. (Hawkman)']
 - ['02_G.jpg', 'Roger T. (Iceman), Tony C. (Brutus)']

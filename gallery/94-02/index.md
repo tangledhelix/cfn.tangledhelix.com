@@ -1,6 +1,7 @@
 ---
 layout: gallery
 title: February 1994
+backlink: /gallery/1994.html
 images:
 - ['01_G.jpg', 'Beyond, Denise Marion (Pepper), Bryan Cristina (Tracker), Mike Kuehn(Admiral), Mike McFarland (Highlandr), Katie Fergus (Sati), Jeff Garvas']
 - ['02_G.jpg', 'Jim and Hope (TagTeam), Bill B. (Buckeye), Sal']

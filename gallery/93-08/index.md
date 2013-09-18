@@ -1,6 +1,7 @@
 ---
 layout: gallery
 title: August 1993
+backlink: /gallery/1993.html
 images:
 - ['01_G.jpg', 'Left: Danielle N., unknown. Right: Kenwood, unknown. Middle: register(?),Jacob (CtrAltDel), Lisa N. (lisa)']
 - ['02_G.jpg', 'Tony C.(?)']

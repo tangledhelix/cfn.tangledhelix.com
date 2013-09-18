@@ -1,6 +1,7 @@
 ---
 layout: gallery
 title: January 1993
+backlink: /gallery/1993.html
 images:
 - ['01_G.jpg', 'From left, clockwise: unknown, BlkRhino, Lisa N. (Lisa), Dan N. (nothing)']
 - ['02_G.jpg', 'unknown, Mike M. (Highlandr), Nick C. (Pentagarn)']
