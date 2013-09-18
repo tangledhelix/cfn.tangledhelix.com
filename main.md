@@ -34,6 +34,7 @@ title: Main Menu
 5. [CFN Facebook Group](https://www.facebook.com/home.php?sk=group_20175661233)
 6. [IRC SIG Stories](stories)
 7. [The End of CFN](end_announce.html)
+8. [Obituary - Tom Grundner](grundner_obit.html)
 
 ------------------------------------------------<br />
 x=[Exit Free-Net](/)
