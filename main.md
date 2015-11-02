@@ -29,7 +29,7 @@ title: Main Menu
 1. [History of Cleveland Free-Net](history.html)
 2. [About CFN's IRC](irc.html)
 3. [IRC Photo Gallery](gallery)
-4. [IRC Community Email List](list.html)
+4. [IRC Community Email List (defunct)](list.html)
 5. [CFN Facebook Group](https://www.facebook.com/home.php?sk=group_20175661233)
 6. [IRC SIG Stories](stories)
 7. [The End of CFN](end_announce.html)
