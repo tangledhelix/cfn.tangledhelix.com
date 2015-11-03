@@ -1,0 +1,45 @@
+<html lang="en">
+<head>
+	<title>Main | Photos | 1994 | Cleveland Free-Net</title>
+	<link rel="stylesheet" href="/css/main.css" type="text/css" />
+	<script src="/script/jquery.js"></script>
+</head>
+
+<body>
+
+<script>
+    $(document).keypress(function(event) {
+        var loc;
+        switch (event.which) {
+            case 49: loc = '94-02'; break;
+            case 50: loc = '94-04'; break;
+            case 51: loc = '94-05'; break;
+            case 52: loc = '94-08'; break;
+            case 120: loc = '/gallery'; break;
+            default: loc = null; break;
+        }
+        if (loc) {
+            $(location).attr('href', loc);
+        }
+    });
+</script>
+
+
+<p>&lt;&lt;&lt; PHOTOS - 1994 >>></p>
+
+<ol>
+<li><a href="94-02">February</a></li>
+<li><a href="94-04">April</a></li>
+<li><a href="94-05">May</a></li>
+<li><a href="94-08">August</a></li>
+</ol>
+
+
+<p>------------------------------------------------<br />
+x=<a href="/gallery">Return to Gallery Menu</a></p>
+
+<p>Your Choice ==> _</p>
+
+
+</body>
+</html>
