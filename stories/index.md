@@ -4,25 +4,25 @@ title: IRC SIG Stories
 ---
 
 <script>
-	$(document).keypress(function(event) {
-        var loc;
-        switch (event.which) {
-            case 49: loc = 'b63062.html'; break;
-            case 50: loc = 'jellybean.html'; break;
-            case 51: loc = 'manoice.html'; break;
-            case 52: loc = 'midgets.html'; break;
-            case 53: loc = 'mountain.html'; break;
-            case 54: loc = 'rbp.html'; break;
-            case 55: loc = 'storygame.html'; break;
-            case 56: loc = 'wibble.html'; break;
-            case 57: loc = 'stefania.html'; break;
-            case 120: loc = '/main.html'; break;
-            default: loc = null; break;
-        }
-        if (loc) {
-            $(location).attr('href', loc);
-        }
-	});
+document.addEventListener('keydown',function(e){
+  let loc;
+  switch (e.key) {
+    case '1': loc = 'b63062.html'; break;
+    case '2': loc = 'jellybean.html'; break;
+    case '3': loc = 'manoice.html'; break;
+    case '4': loc = 'midgets.html'; break;
+    case '5': loc = 'mountain.html'; break;
+    case '6': loc = 'rbp.html'; break;
+    case '7': loc = 'storygame.html'; break;
+    case '8': loc = 'wibble.html'; break;
+    case '9': loc = 'stefania.html'; break;
+    case 'x': loc = '/main.html'; break;
+    default: loc = null; break;
+  }
+  if (loc) {
+    window.location.href = loc;
+  }
+});
 </script>
 
 <<< IRC SIG STORIES >>>

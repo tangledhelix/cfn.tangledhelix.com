@@ -2,17 +2,16 @@
 <head>
 	<title>{{ page.title }} | Photos | Cleveland Free-Net</title>
 	<link rel="stylesheet" href="/css/main.css" type="text/css" />
-	<script src="/script/jquery.js"></script>
 </head>
 
 <body>
 
 <script>
-	$(document).keypress(function(event) {
-		if (event.which == 120) { // x
-            $(location).attr('href', '{{ page.backlink }}');
-		}
-	});
+document.addEventListener('keydown',function(e){
+  if (e.key === 'x') {
+    window.location.href = '{{ page.backlink }}';
+  }
+});
 </script>
 
 <p>

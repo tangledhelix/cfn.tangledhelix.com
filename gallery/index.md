@@ -4,19 +4,19 @@ title: Main | Photos
 ---
 
 <script>
-	$(document).keypress(function(event) {
-		if (event.which == 49) { // 1
-			$(location).attr('href', '1993.html');
-		} else if (event.which == 50) { // 2
-			$(location).attr('href', '1994.html');
-		} else if (event.which == 51) { // 3
-			$(location).attr('href', '95');
-		} else if (event.which == 52) { // 4
-			$(location).attr('href', 'misc');
-		} else if (event.which == 120) { // x
-			$(location).attr('href', '/main.html');
-		}
-	});
+document.addEventListener('keydown',function(e){
+  if (e.key === '1') {
+    window.location.href = '1993.html';
+  } else if (e.key === '2') {
+    window.location.href = '1994.html';
+  } else if (e.key === '3') {
+    window.location.href = '95';
+  } else if (e.key === '4') {
+    window.location.href = 'misc';
+  } else if (e.key === 'x') {
+    window.location.href = '/main.html';
+  }
+});
 </script>
 
 <<< PHOTOS >>>

@@ -4,24 +4,24 @@ title: Main Menu
 ---
 
 <script>
-	$(document).keypress(function(event) {
-        var loc;
-        switch (event.which) {
-            case 49: loc = '/history.html'; break;
-            case 50: loc = '/irc.html'; break;
-            case 51: loc = '/gallery'; break;
-            case 52: loc = '/list.html'; break;
-            case 53: loc = 'https://www.facebook.com/home.php?sk=group_20175661233'; break;
-            case 54: loc = '/stories'; break;
-            case 55: loc = '/end_announce.html'; break;
-            case 56: loc = '/grundner_obit.html'; break;
-            case 120: loc = '/'; break;
-            default: loc = null; break;
-        }
-        if (loc) {
-            $(location).attr('href', loc);
-        }
-	});
+document.addEventListener('keydown',function(e){
+  let loc;
+  switch (e.key) {
+    case '1': loc = '/history.html'; break;
+    case '2': loc = '/irc.html'; break;
+    case '3': loc = '/gallery'; break;
+    case '4': loc = '/list.html'; break;
+    case '5': loc = 'https://www.facebook.com/home.php?sk=group_20175661233'; break;
+    case '6': loc = '/stories'; break;
+    case '7': loc = '/end_announce.html'; break;
+    case '8': loc = '/grundner_obit.html'; break;
+    case 'x': loc = '/'; break;
+    default: loc = null; break;
+  }
+  if (loc) {
+    window.location.href = loc;
+  }
+});
 </script>
 
 <<< MAIN MENU >>>
