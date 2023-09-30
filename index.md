@@ -36,7 +36,7 @@ BSDI BSD/386 1.0 (kanga) (ttys8)
 
 	          brought to you by
 
-	    Case Western Reserve University
+	    Case Western Reserve University<sup>*</sup>
 	  Community Telecomputing Laboratory
 
 Are you:
@@ -45,4 +45,8 @@ Are you:
 2. [A visitor](main.html)
 
 Please enter 1 or 2: _
+
+<hr>
+
+<sup>*</sup> _This web site is a tribute to the Cleveland Free-Net, and is in no way affiliated with Case Western Reserve University_
 
