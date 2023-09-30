@@ -52,3 +52,17 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+exclude:
+  - Makefile
+  - README.md
+
+kramdown:
+  typographic_symbols:
+    hellip: '...'
+    mdash: '--'
+    ndash: '-'
+    laquo: '<<'
+    raquo: '>>'
+    laquo_space: '<< '
+    raquo_space: ' >>'

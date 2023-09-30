@@ -11,7 +11,7 @@ document.addEventListener('keydown',function(e){
 });
 </script>
 
-Trying 127.254.92.45...
+Trying 127.254.92.45 ...
 Connected to freenet-in-b.cwru.edu.
 Escape character is '^]'.
 
@@ -36,7 +36,7 @@ BSDI BSD/386 1.0 (kanga) (ttys8)
 
 	          brought to you by
 
-	    Case Western Reserve University<sup>*</sup>
+	    Case Western Reserve University *
 	  Community Telecomputing Laboratory
 
 Are you:
@@ -46,7 +46,10 @@ Are you:
 
 Please enter 1 or 2: _
 
-<hr>
-
-<sup>*</sup> _This web site is a tribute to the Cleveland Free-Net, and is in no way affiliated with Case Western Reserve University_
+------------------------------------------------<br>
+<small>
+<sup>*</sup>
+_This web site is a tribute to the Cleveland Free-Net, and is in no way_  
+_affiliated with Case Western Reserve University_
+</small>
 

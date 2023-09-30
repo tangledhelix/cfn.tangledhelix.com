@@ -35,7 +35,7 @@ document.addEventListener('keydown',function(e){
 7. [The End of CFN](end_announce.html)
 8. [Obituary - Tom Grundner](grundner_obit.html)
 
-------------------------------------------------<br />
+------------------------------------------------<br>
 x=[Exit Free-Net](/)
 
 Your Choice ==> _
