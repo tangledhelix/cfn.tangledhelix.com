@@ -3,7 +3,7 @@
 <head>
 	<title>{{ page.title }} | Photos | Cleveland Free-Net</title>
         <meta charset="utf-8">
-	<link rel="stylesheet" href="/css/main.css" type="text/css" />
+	<link rel="stylesheet" href="/css/main.css" type="text/css">
 </head>
 
 <body>
@@ -21,13 +21,13 @@ document.addEventListener('keydown',function(e){
 </p>
 
 {% for item in page.images %}
-<p><img src="{{ item[0] }}" /></p>
+<p><img src="{{ item[0] }}"></p>
 {% if item[1] %}
 <p>{{ item[1] }}</p>
 {% endif %}
 {% endfor %}
 
-<br />
+<br>
 
 <p>
 => x=<a href="{{ page.backlink }}">Return to Gallery Menu</a>
