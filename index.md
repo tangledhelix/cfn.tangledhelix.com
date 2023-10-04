@@ -11,8 +11,8 @@ document.addEventListener('keydown',function(e){
 });
 </script>
 
-Trying 127.254.92.45 ...
-Connected to freenet-in-b.cwru.edu.
+Trying 127.254.92.45 ...  
+Connected to freenet-in-b.cwru.edu.  
 Escape character is '^]'.
 
 BSDI BSD/386 1.0 (kanga) (ttys8)
