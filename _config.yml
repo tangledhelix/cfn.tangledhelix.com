@@ -66,3 +66,4 @@ kramdown:
     raquo: '>>'
     laquo_space: '<< '
     raquo_space: ' >>'
+  smart_quotes: ["apos", "apos", "quot", "quot"]
