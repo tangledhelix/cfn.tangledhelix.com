@@ -3,7 +3,7 @@ layout: page
 title: Obituary - Tom Grundner (1945-2011)
 ---
 
-The following was reprinted with permission from David Hayes, who posted  
+The following is reprinted here with permission from David Hayes, who posted  
 the [original article][1] at historicnavalfiction.com.
 
 [1]: http://www.historicnavalfiction.com/general-hnf-info/astrodenes-blog/2432-obituary-tom-grundner-1945-2011

@@ -19,14 +19,14 @@ document.addEventListener('keydown',function(e){
 });
 </script>
 
-<<< PHOTOS >>>
+&lt;&lt;&lt; PHOTOS &gt;&gt;&gt;
 
 1. [1993](1993.html)
 2. [1994](1994.html)
 3. [1995](95)
 4. [Miscellaneous](misc)
 
-------------------------------------------------<br />
+------------------------------------------------<br>
 x=[Return to Main Menu](/main.html)
 
 Your Choice ==> _

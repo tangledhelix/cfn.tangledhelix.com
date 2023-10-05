@@ -14,17 +14,17 @@ landfill.
 Basic Tenets of the Rubber Ball Paradigm
 
 1. Never do Easily what can be done With Difficulty, if for nothing else than  
-to make things More Interesting.
+   to make things More Interesting.
 
 2. If its not Fun, then it is Work.
 
 3. The Power to Bounce lies within: seeking it without is Too Much Work, and  
-that's No Fun.
+   that's No Fun.
 
 4. Apart from the Rubber Ball, Material Objects are Not Sacred.
 
 5. Clean beneath the Bed and the Couch once in awhile, because you never know  
-when you might Bounce Under There.
+   when you might Bounce Under There.
 
 6. Recognize Living as Majesty, rather than Burden.
 
@@ -33,5 +33,5 @@ when you might Bounce Under There.
 8. Recognize Too Much Bouncing as An Annoyance.
 
 9. The Pinnacle is a collection of foods, friends, warmth and music,  
-experienced simultaneously. Bounce there Often.
+   experienced simultaneously. Bounce there Often.
 

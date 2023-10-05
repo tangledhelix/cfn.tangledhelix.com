@@ -24,7 +24,7 @@ document.addEventListener('keydown',function(e){
 });
 </script>
 
-<<< MAIN MENU >>>
+&lt;&lt;&lt; MAIN MENU &gt;&gt;&gt;
 
 1. [History of Cleveland Free-Net](history.html)
 2. [About CFN's IRC](irc.html)

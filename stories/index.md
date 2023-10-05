@@ -25,7 +25,7 @@ document.addEventListener('keydown',function(e){
 });
 </script>
 
-<<< IRC SIG STORIES >>>
+&lt;&lt;&lt; IRC SIG STORIES &gt;&gt;&gt;
 
 1. [Frequently Asked Questions about b63062](b63062.html)
 2. [The Magic Jellybean](jellybean.html)
@@ -37,7 +37,7 @@ document.addEventListener('keydown',function(e){
 8. [The Tale of Wibble](wibble.html)
 9. [The Stefania Chronicles](stefania.html)
 
-------------------------------------------------<br />
+------------------------------------------------<br>
 x=[Return to Main Menu](/main.html)
 
 Your Choice ==> _

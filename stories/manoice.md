@@ -33,5 +33,5 @@ a simple one.
 
 "Damn. Usenet is down."
 
-[Lights Dim, and Roger slumps to the floor.]
+\[Lights Dim, and Roger slumps to the floor.\]
 
